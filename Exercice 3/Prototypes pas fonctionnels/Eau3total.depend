@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1481736996 source:e:\projet-donneeslibres\exercice 3\tableau.cpp
+	<stdexcept>
+	<fstream>
+	<vector>
+	<iostream>
+
+1481735802 e:\projet-donneeslibres\exercice 3\tableau.h
+	<stdexcept>
+	<fstream>
+	<vector>
+	<string>
+	<vector>
+
+1481735442 source:e:\projet-donneeslibres\exercice 3\main.cpp
+	<stdexcept>
+	<fstream>
+	<iostream>
+	<vector>
+	<tableau.h>
+
+1481662456 e:\projet-donneeslibres\exercice 3\tableau.cpp
+	<stdexcept>
+	<fstream>
+	<vector>
+	"tableau.h"
+	<iostream>
+
+1481735802 e:\projet-donneeslibres\exercice 3\\tableau.h
+	<stdexcept>
+	<fstream>
+	<vector>
+	<string>
+	<vector>
+

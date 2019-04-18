@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1481737584 source:e:\projet-donneeslibres\exercice 3\eaumoyen3\main.cpp
+	<stdexcept>
+	<iostream>
+	"tableau.h"
+	<vector>
+
+1481737312 e:\projet-donneeslibres\exercice 3\eaumoyen3\tableau.h
+	<stdexcept>
+	<fstream>
+	<vector>
+	<string>
+	<vector>
+
+1481737312 source:e:\projet-donneeslibres\exercice 3\eaumoyen3\tableau.cpp
+	<stdexcept>
+	<fstream>
+	<vector>
+	<iostream>
+

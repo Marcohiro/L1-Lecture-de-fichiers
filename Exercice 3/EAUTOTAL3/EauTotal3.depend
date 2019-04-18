@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1481662860 source:e:\projet-donneeslibres\exercice 3\eau-total3.cpp
+	<stdexcept>
+	<iostream>
+	"tableau.h"
+	<vector>
+
+1481662456 e:\projet-donneeslibres\exercice 3\tableau.cpp
+	<stdexcept>
+	<fstream>
+	<vector>
+	"tableau.h"
+	<iostream>
+
+1481661774 e:\projet-donneeslibres\exercice 3\tableau.h
+	<stdexcept>
+	<fstream>
+	<vector>
+	<string>
+	<vector>
+
+1481662456 source:e:\projet-donneeslibres\exercice 3\tableau.cpp
+	<stdexcept>
+	<fstream>
+	<vector>
+	"tableau.h"
+	<iostream>
+
