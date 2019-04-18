@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481708905 source:/media/marc-alain.petit/BE3F-1D50/Projet-DonneesLibres/Exercice 5/TestExo5/main.cpp
+	<stdexcept>
+	<iostream>
+	"tableau-donnees-csv.h"
+
+1449915594 /media/marc-alain.petit/BE3F-1D50/Projet-DonneesLibres/Exercice 5/TestExo5/tableau-donnees-csv.h
+	<stdexcept>
+	<vector>
+	<string>
+

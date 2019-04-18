@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1481747710 source:e:\projet-donneeslibres\exercice 6\arbres\main.cpp
+	<stdexcept>
+	<iostream>
+	<sstream>
+	<fstream>
+	"tableau.h"
+	"tableaucsv.h"
+	<vector>
+
+1481747700 e:\projet-donneeslibres\exercice 6\arbres\tableau.h
+	<stdexcept>
+	<fstream>
+	<vector>
+	<string>
+	<vector>
+
+1481745610 e:\projet-donneeslibres\exercice 6\arbres\tableaucsv.h
+	<stdexcept>
+	<vector>
+	<string>
+
